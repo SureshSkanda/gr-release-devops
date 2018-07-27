@@ -26,14 +26,14 @@ dependencies {
 }
 
 plugindev {
-    pluginImplementationClass 'net.researchgate.release.ReleasePlugin'
+    pluginImplementationClass 'com.devopsrg.release.ReleasePlugin'
     pluginDescription 'gradle-release is a plugin for providing a Maven-like release process to project using Gradle.'
     pluginLicenses 'MIT'
     pluginTags 'gradle', 'plugin', 'release'
     authorId 'hillkorn'
     authorName 'Dennis Schumann'
-    authorEmail 'dennis.schumann@researchgate.net'
-    projectUrl 'https://github.com/researchgate/gradle-release'
+   // authorEmail 'dennis.schumann@researchgate.net'
+    //projectUrl 'https://github.com/researchgate/gradle-release'
     projectInceptionYear '2011'
     done() // do not omit this
 }
