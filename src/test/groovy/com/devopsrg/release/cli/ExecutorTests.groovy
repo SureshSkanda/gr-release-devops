@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-package net.researchgate.release.cli
+package com.devopsrg.release.cli
 
 import spock.lang.Specification
 

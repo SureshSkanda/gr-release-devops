@@ -8,10 +8,10 @@
  * file that was distributed with this source code.
  */
 
-package net.researchgate.release
+package com.devopsrg.release
 
 import groovy.text.SimpleTemplateEngine
-import net.researchgate.release.cli.Executor
+import com.devopsrg.release.cli.Executor
 import org.apache.tools.ant.BuildException
 import org.gradle.api.GradleException
 import org.gradle.api.Project

@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-package net.researchgate.release
+package com.devopsrg.release
 
 import org.eclipse.jgit.api.Git
 import org.eclipse.jgit.lib.StoredConfig
