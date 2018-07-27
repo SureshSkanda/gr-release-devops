@@ -63,7 +63,7 @@ bintray {
     }
     publish = false
 }
-
+/*
 artifactory {
     contextUrl = 'https://oss.jfrog.org'
     publish {
@@ -83,5 +83,5 @@ artifactory {
 }
 
 afterReleaseBuild.dependsOn bintrayUpload
-
+*/
 wrapper.gradleVersion = '1.12'
